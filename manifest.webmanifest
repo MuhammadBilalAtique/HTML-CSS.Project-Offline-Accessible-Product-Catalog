@@ -1,0 +1,15 @@
+{
+    "name": "Product Catalog",
+    "short_name": "Catalog",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#808080",
+    "description": "An offline accessible product catalog",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
